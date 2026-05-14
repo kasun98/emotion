@@ -1,6 +1,6 @@
 # Emotion Analysis
 
-![Emotion Analysis Header](https://res.cloudinary.com/dlb65j6di/image/upload/v1721924193/a_4_yvlqca.png)
+<video src="yolo_mo2q5c.mp4" autoplay loop muted playsinline style="width: 100%; border-radius: 10px;"></video>
 
 Recognizing emotions in real-time has vast applications ranging from entertainment to mental health analysis. Utilizing the power of YOLOv8, Roboflow for dataset annotation, and Google Colab for model training, this project detects and displays cumulative emotions from frames of any video or live webcam feed.
 
