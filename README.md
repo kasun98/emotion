@@ -1,6 +1,6 @@
 # Emotion Analysis
 
-<video src="https://github.com/kasun98/emotion/raw/main/yolo_mo2q5c.mp4" muted autoplay loop></video>
+![YOLOv8 Emotion Detection Demo](yolo_mo2q5c.gif)
 
 Recognizing emotions in real-time has vast applications ranging from entertainment to mental health analysis. Utilizing the power of YOLOv8, Roboflow for dataset annotation, and Google Colab for model training, this project detects and displays cumulative emotions from frames of any video or live webcam feed.
 
